@@ -30,7 +30,7 @@
 
 ## Projects on Github
 ### Currently working on:
-###### <img src="https://img.icons8.com/ios/16/000000/brain.png"/>Smartbrain
+#### <img src="https://img.icons8.com/ios/16/000000/brain.png"/>Smartbrain
 
 [<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/smartbrain)
 - A face detection app
@@ -47,27 +47,27 @@
 
 <img src="https://img.icons8.com/windows/16/000000/boxing.png"/>Female Boxing Coach
 
->[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/ana)
->[<img src="https://img.shields.io/badge/website-live-brightgreen"/>](https://femaleboxingcoach.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/ana)
+[<img src="https://img.shields.io/badge/website-live-brightgreen"/>](https://femaleboxingcoach.com/)
 
 <img src="https://img.icons8.com/windows/16/000000/bot.png"/>RoboFriends
 
-[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/robofriends)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/robofriends)
 [<img src="https://img.shields.io/badge/github-demo-blueviolet"/>](https://christinetrant.github.io/robofriends/)
 
 <img src="https://img.icons8.com/windows/16/000000/todo-list.png"/>To Do List 
 
-[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/ToDoList)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/ToDoList)
 [<img src="https://img.shields.io/badge/github-demo-blueviolet"/>](https://christinetrant.github.io/ToDoList/)
 
 <img src="https://img.icons8.com/windows/16/000000/opacity.png"/>Background Generator
 
-[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/Background-Generator)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/Background-Generator)
 [<img src="https://img.shields.io/badge/github-demo-blueviolet"/>](https://christinetrant.github.io/Background-Generator/)
 
 <img src="https://img.icons8.com/windows/16/000000/cat-head.png"/>CSS Animals
 
-[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/CSSAnimals)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/CSSAnimals)
 [<img src="https://img.shields.io/badge/github-demo-blueviolet"/>](https://christinetrant.github.io/CSSAnimals/)
 
 <img src="https://img.icons8.com/windows/16/000000/light.png"/>Wasted Interns Mockup Site
