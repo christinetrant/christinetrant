@@ -30,7 +30,7 @@
 
 ## Projects on Github
 ### Currently working on:
-[<img src="https://img.icons8.com/ios/16/000000/brain.png"/>Smartbrain]
+###### <img src="https://img.icons8.com/ios/16/000000/brain.png"/>Smartbrain
 
 [<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/smartbrain)
 - A face detection app
@@ -47,8 +47,8 @@
 
 <img src="https://img.icons8.com/windows/16/000000/boxing.png"/>Female Boxing Coach
 
-[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/ana)
-[<img src="https://img.shields.io/badge/website-live-brightgreen"/>](https://femaleboxingcoach.com/)
+>[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/ana)
+>[<img src="https://img.shields.io/badge/website-live-brightgreen"/>](https://femaleboxingcoach.com/)
 
 <img src="https://img.icons8.com/windows/16/000000/bot.png"/>RoboFriends
 
