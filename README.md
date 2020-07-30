@@ -14,7 +14,7 @@
 
 ## My Tech Stack
 <!-- https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -30,53 +30,55 @@
 
 ## Projects on Github
 ### Currently working on:
-[<img src="https://img.icons8.com/ios/96/000000/brain.png"/>Smartbrain repo](https://github.com/christinetrant/smartbrain)
+[<img src="https://img.icons8.com/ios/32/000000/brain.png"/>Smartbrain repo](https://github.com/christinetrant/smartbrain)
 - A face detection app
 <!-- ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 
-<img src="https://img.icons8.com/ios/96/000000/open-pokeball.png"/>Pokemon
-[Repo:](https://github.com/christinetrant/pokemon)
-[Demo:](https://christinetrant.github.io/pokemon/)
+<img src="https://img.icons8.com/ios/32/000000/open-pokeball.png"/>Pokemon
+
+[Repo](https://github.com/christinetrant/pokemon)
+
+[Demo](https://christinetrant.github.io/pokemon/)
 
 
 ### Completed 
-[<img src="https://img.icons8.com/windows/96/000000/paint-palette.png"/>My Portfolio Repo](https://github.com/christinetrant/portfolio)
+[<img src="https://img.icons8.com/windows/32/000000/paint-palette.png"/>My Portfolio Repo](https://github.com/christinetrant/portfolio)
 
-<img src="https://img.icons8.com/windows/96/000000/boxing.png"/>Female Boxing Coach
+<img src="https://img.icons8.com/windows/32/000000/boxing.png"/>Female Boxing Coach
 [Repo](https://github.com/christinetrant/ana)
 [Live Site:](https://femaleboxingcoach.com/)
 
-<img src="https://img.icons8.com/windows/96/000000/bot.png"/>RoboFriends
+<img src="https://img.icons8.com/windows/32/000000/bot.png"/>RoboFriends
 [Repo:](https://github.com/christinetrant/robofriends)
 [Demo:](https://christinetrant.github.io/robofriends/)
 
-<img src="https://img.icons8.com/windows/96/000000/todo-list.png"/>To Do List 
+<img src="https://img.icons8.com/windows/32/000000/todo-list.png"/>To Do List 
 [Repo:](https://github.com/christinetrant/ToDoList)
 [Demo:](https://christinetrant.github.io/ToDoList/)
 
-<img src="https://img.icons8.com/windows/96/000000/opacity.png"/>Background Generator
+<img src="https://img.icons8.com/windows/32/000000/opacity.png"/>Background Generator
 [Repo:](https://github.com/christinetrant/Background-Generator)
 [Demo:](https://christinetrant.github.io/Background-Generator/)
 
-<img src="https://img.icons8.com/windows/96/000000/cat-head.png"/>CSS Animals
+<img src="https://img.icons8.com/windows/32/000000/cat-head.png"/>CSS Animals
 [Repo:](https://github.com/christinetrant/CSSAnimals)
 [Demo:](https://christinetrant.github.io/CSSAnimals/)
 
-<img src="https://img.icons8.com/windows/96/000000/light.png"/>Wasted Interns Mockup Site
+<img src="https://img.icons8.com/windows/32/000000/light.png"/>Wasted Interns Mockup Site
 [Repo:](https://github.com/christinetrant/wastedinterns)
 [Demo:](https://christinetrant.github.io/wastedinterns/)
 
 ### Coding Challenges
-[<img src="https://img.icons8.com/windows/96/000000/red-yellow-cards.png"/>Coding Challenge 14 - Memory Card Game](https://github.com/zero-to-mastery/coding_challenge-14)
+[<img src="https://img.icons8.com/windows/32/000000/red-yellow-cards.png"/>Coding Challenge 14 - Memory Card Game](https://github.com/zero-to-mastery/coding_challenge-14)
 [Repo:](https://github.com/christinetrant/z2mChallenge14-MemoryGame)
 [Demo:](https://christinetrant.github.io/z2mChallenge14-MemoryGame/)
 
-[<img src="https://img.icons8.com/windows/96/000000/more-than-2.png"/>Coding Challenge 6 - Logic & Problem Solving](https://github.com/zero-to-mastery/Coding_Challenge-6)
+[<img src="https://img.icons8.com/windows/32/000000/more-than-2.png"/>Coding Challenge 6 - Logic & Problem Solving](https://github.com/zero-to-mastery/Coding_Challenge-6)
 [Repo:](https://github.com/christinetrant/Coding_Challenge-6)
 [Demo:](https://christinetrant.github.io/Coding_Challenge-6/)
 [npm package:](https://www.npmjs.com/package/colorconverter-z2m)
 
-[<img src="https://img.icons8.com/windows/96/000000/design.png"/>Coding Challenge 11 - Build a Client Website from design](https://github.com/zero-to-mastery/coding_challenge-11)
+[<img src="https://img.icons8.com/windows/32/000000/design.png"/>Coding Challenge 11 - Build a Client Website from design](https://github.com/zero-to-mastery/coding_challenge-11)
 [Repo:](https://github.com/christinetrant/coding_challenge-11)
 [Demo:](https://christinetrant.github.io/coding_challenge-11/)
 
