@@ -1,12 +1,12 @@
 ### Hi, I'm Christine 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/christinetrant)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christinetrant/)](https://www.linkedin.com/in/christinetrant/)
-[![Website](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=christinetrant.com&url=https%3A%2F%2Fchristinetrant.com)](https://christinetrant.com)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christinetrant@gmail.com)](mailto:christinetrant@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-%23181717?style=plastic-square&logo=github)](https://github.com/christinetrant)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christinetrant/)](https://www.linkedin.com/in/christinetrant/)
+[![Website](https://img.shields.io/website?color=0ab9e6&style=plastic-square&up_message=christinetrant.com&url=https%3A%2F%2Fchristinetrant.com)](https://christinetrant.com)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:christinetrant@gmail.com)](mailto:christinetrant@gmail.com)
 
 
-- 💻 I am open for opportunities
+- 💻 I am open for opportunities as a front end developer
 - 📝 [My resume](https://www.christinetrant.com/files/Christine_Trant_CV_2020.pdf)
 - 🔭 I’m currently working on ... a face detection app using React, API integration, NodeJS, Express.js, Postgres & MongoDB
 - 🌱 I’m currently learning ... React, server side elements and databases
@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<!-- ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code) -->
+<!-- ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic-square&logo=visual-studio-code) -->
 <!-- <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> -->
 <!-- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> -->
 
@@ -36,16 +36,16 @@
 
 <img src="https://img.icons8.com/ios/32/000000/open-pokeball.png"/>Pokemon
 
-[Repo](https://github.com/christinetrant/pokemon)
+[https://img.shields.io/badge/github-repo-blue](https://github.com/christinetrant/pokemon)
 
-[Demo](https://christinetrant.github.io/pokemon/)
+[<img src="https://img.icons8.com/windows/32/000000/github.png"/>Demo](https://christinetrant.github.io/pokemon/)
 
 
 ### Completed 
 [<img src="https://img.icons8.com/windows/32/000000/paint-palette.png"/>My Portfolio Repo](https://github.com/christinetrant/portfolio)
 
 <img src="https://img.icons8.com/windows/32/000000/boxing.png"/>Female Boxing Coach
-[Repo](https://github.com/christinetrant/ana)
+[https://img.shields.io/badge/<img src="https://img.icons8.com/windows/32/000000/github.png"/>-repo-blue](https://github.com/christinetrant/ana)
 [Live Site:](https://femaleboxingcoach.com/)
 
 <img src="https://img.icons8.com/windows/32/000000/bot.png"/>RoboFriends
