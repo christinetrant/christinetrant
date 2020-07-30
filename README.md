@@ -45,7 +45,7 @@
 [<img src="https://img.icons8.com/windows/32/000000/paint-palette.png"/>My Portfolio Repo](https://github.com/christinetrant/portfolio)
 
 <img src="https://img.icons8.com/windows/32/000000/boxing.png"/>Female Boxing Coach
-[https://img.shields.io/badge/<img src="https://img.icons8.com/windows/32/000000/github.png"/>-repo-blue](https://github.com/christinetrant/ana)
+[https://img.shields.io/badge/https://img.icons8.com/windows/32/000000/github.png-repo-blue](https://github.com/christinetrant/ana)
 [Live Site:](https://femaleboxingcoach.com/)
 
 <img src="https://img.icons8.com/windows/32/000000/bot.png"/>RoboFriends
