@@ -2,7 +2,7 @@
 
 - 💻 I am open for opportunities as a front end developer
 - 📝 [My resume](https://www.christinetrant.com/files/Christine_Trant_CV_2020.pdf)
-- 🔭 I’m currently working on ... a face detection app using React, API integration, NodeJS, Express.js, Postgres & MongoDB
+- 🔭 I’m currently working on ... a face detection app using React, API integration, NodeJS, Express.js & PostgreSQL
 - 🌱 I’m currently learning ... React, server side elements and databases
  - [![Github Badge](https://img.shields.io/badge/-Github-%23181717?style=plastic-square&logo=github)](https://github.com/christinetrant)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christinetrant/)](https://www.linkedin.com/in/christinetrant/)
