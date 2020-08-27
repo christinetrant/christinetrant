@@ -32,7 +32,6 @@
 #### <img src="https://img.icons8.com/ios/16/000000/brain.png"/> Smartbrain - A face detection app
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/smartbrain)
-<!-- ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 [<img src="https://img.shields.io/badge/github-demo-blueviolet"/>](https://z2m-smart-brain.herokuapp.com/)
 
 #### <img src="https://img.icons8.com/ios/16/000000/open-pokeball.png"/> Pokemon
