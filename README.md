@@ -54,7 +54,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/ana)
 [<img src="https://img.shields.io/badge/website-live-brightgreen"/>](https://femaleboxingcoach.com/)
 
-#### <img src="<img src="https://img.icons8.com/windows/16/000000/quote-left.png"/>"/> Quote Generator
+#### <img src="https://img.icons8.com/windows/16/000000/quote-left.png"/> Quote Generator
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/quoteGenerator)
 [<img src="https://img.shields.io/badge/github-demo-blueviolet"/>](https://christinetrant.github.io/quoteGenerator/)
