@@ -112,6 +112,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/coding_challenge-29)
 [<img src="https://img.shields.io/badge/github-demo-blueviolet"/>](https://christinetrant.github.io/coding_challenge-29/)
 
+<p align="center"> 
+  visitor counter<br>
+  <img src="https://profile-counter.glitch.me/christinetrant/count.svg" />
+</p>
+
 <!--
 **christinetrant/christinetrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
