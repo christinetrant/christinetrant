@@ -1,6 +1,6 @@
 ### Hi, I'm Christine 👋
 
-- 💻 I am open for opportunities as a front end developer
+- 💻 Junior developer
 - 📝 [My resume](https://www.christinetrant.com/files/Christine_Trant_CV_2020.pdf)
 - 🔭 I’m currently working on ... a face detection app using React, API integration, NodeJS, Express.js & PostgreSQL
 - 🌱 I’m currently learning ... React, server side elements and databases
