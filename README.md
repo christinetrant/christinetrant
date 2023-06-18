@@ -62,10 +62,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/portfolio)
 [<img src="https://img.shields.io/badge/website-live-brightgreen"/>](https://christinetrant.com/) -->
 
-#### <img src="https://img.icons8.com/windows/16/FFFFFF/boxing.png"/> Female Boxing Coach
+<!-- #### <img src="https://img.icons8.com/windows/16/FFFFFF/boxing.png"/> Female Boxing Coach
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/ana)
-[<img src="https://img.shields.io/badge/website-live-brightgreen"/>](https://femaleboxingcoach.com/)
+[<img src="https://img.shields.io/badge/website-live-brightgreen"/>](https://femaleboxingcoach.com/) -->
 
 #### <img src="https://img.icons8.com/windows/16/FFFFFF/quote-left.png"/> Quote Generator
 
