@@ -49,17 +49,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/strapi-recipes)
 <!-- [<img src="https://img.shields.io/badge/github-demo-blueviolet"/>](https://z2m-smart-brain.herokuapp.com/) -->
 
-#### <img src="https://img.icons8.com/ios/16/FFFFFF/resume.png"/> Portfolio - an updated portfolio using React & deployed via Netlify
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/react-portfolio)
-[<img src="https://img.shields.io/badge/github-demo-blueviolet"/>](https://christinetrant.com/)
 
 ### Completed
 
-#### <img src="https://img.icons8.com/windows/16/FFFFFF/paint-palette.png"/> My Portfolio
+#### <img src="https://img.icons8.com/ios/16/FFFFFF/resume.png"/> Portfolio - an updated portfolio using React & deployed via Netlify
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/react-portfolio)
+[<img src="https://img.shields.io/badge/website-live-brightgreen"/>](https://christinetrant.com/)
+
+<!-- #### <img src="https://img.icons8.com/windows/16/FFFFFF/paint-palette.png"/> My Portfolio
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/portfolio)
-[<img src="https://img.shields.io/badge/website-live-brightgreen"/>](https://christinetrant.com/)
+[<img src="https://img.shields.io/badge/website-live-brightgreen"/>](https://christinetrant.com/) -->
 
 #### <img src="https://img.icons8.com/windows/16/FFFFFF/boxing.png"/> Female Boxing Coach
 
