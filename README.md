@@ -44,12 +44,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/pokemon)
 [<img src="https://img.shields.io/badge/github-demo-blueviolet"/>](https://christinetrant.github.io/pokemon/) -->
 
-#### <img src="https://icons8.com/icon/10719/dining-room"/> Recipes - A recipe app using Next & Strapi
+#### <img src="https://img.icons8.com/ios/50/000000/dining-room.png"/> Recipes - A recipe app using Next & Strapi
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/strapi-recipes)
 <!-- [<img src="https://img.shields.io/badge/github-demo-blueviolet"/>](https://z2m-smart-brain.herokuapp.com/) -->
 
-#### <img src="https://icons8.com/icon/23877/resume"/> Portfolio - an updated portfolio using React & deployed via Netlify
+#### <img src="https://img.icons8.com/ios/50/000000/resume.png"/> Portfolio - an updated portfolio using React & deployed via Netlify
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/github-repo-blue"/>](https://github.com/christinetrant/react-portfolio)
 [<img src="https://img.shields.io/badge/github-demo-blueviolet"/>](https://christinetrant.com/)
